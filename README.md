@@ -9,7 +9,7 @@ I am a passionate data scientist with a strong interest in NLP/Computer Vision!
 
 ## Education
 - M.Sc from ENSAE Paris (Institut Polytechnique de Paris) in Data Science & Business Decision (top 10%)
-- M.SC from Trinity COllege Dublin in Economics & Statistics (top 10%) 
+- M.Sc from Trinity COllege Dublin in Economics & Statistics (top 10%) 
 
 ## Contact
 florentin.lavo@gmail.com 
